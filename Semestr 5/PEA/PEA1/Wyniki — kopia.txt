@@ -1,0 +1,19 @@
+Wynik dla 3 miast symetrycznie: 0.729139
+Wynik dla 4 miast symetrycznie: 0.70137
+Wynik dla 5 miast symetrycznie: 0.845275
+Wynik dla 6 miast symetrycznie: 0.960043
+Wynik dla 7 miast symetrycznie: 0.989951
+Wynik dla 8 miast symetrycznie: 4.05174
+Wynik dla 12 miast symetrycznie: 26.2831
+Wynik dla 10 miast symetrycznie: 217.739
+Wynik dla 11 miast symetrycznie: 2192.12
+---------------------------------
+Wynik dla 3 miast niesymetrycznie: 0.705898
+Wynik dla 4 miast niesymetrycznie: 0.705631
+Wynik dla 5 miast niesymetrycznie: 0.744018
+Wynik dla 6 miast niesymetrycznie: 0.908745
+Wynik dla 7 miast niesymetrycznie: 1.02949
+Wynik dla 8 miast niesymetrycznie: 3.81438
+Wynik dla 9 miast niesymetrycznie: 25.0234
+Wynik dla 10 miast niesymetrycznie: 225.014
+Wynik dla 11 miast niesymetrycznie: 2240.88

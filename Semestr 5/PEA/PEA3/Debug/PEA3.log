@@ -1,0 +1,13 @@
+﻿  Salesman.cpp
+c:\users\kamil\documents\visual studio 2017\projects\pea3\pea3\salesman.cpp(53): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\kamil\documents\visual studio 2017\projects\pea3\pea3\salesman.cpp(76): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\documents\visual studio 2017\projects\pea3\pea3\salesman.cpp(90): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kamil\documents\visual studio 2017\projects\pea3\pea3\salesman.cpp(128): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\documents\visual studio 2017\projects\pea3\pea3\salesman.cpp(129): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\documents\visual studio 2017\projects\pea3\pea3\salesman.cpp(145): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\documents\visual studio 2017\projects\pea3\pea3\salesman.cpp(147): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\documents\visual studio 2017\projects\pea3\pea3\salesman.cpp(237): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kamil\documents\visual studio 2017\projects\pea3\pea3\salesman.cpp(171): warning C4101: "copiedGenes": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kamil\documents\visual studio 2017\projects\pea3\pea3\salesman.cpp(162): warning C4101: "child": lokalna zmienna, do której nie istnieje odwołanie
+  PEA3.vcxproj -> C:\Users\Kamil\documents\visual studio 2017\Projects\PEA3\Debug\PEA3.exe
+  PEA3.vcxproj -> C:\Users\Kamil\documents\visual studio 2017\Projects\PEA3\Debug\PEA3.pdb (Partial PDB)

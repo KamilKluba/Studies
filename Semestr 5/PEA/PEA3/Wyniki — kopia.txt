@@ -1,0 +1,534 @@
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.01	 Generacja: 	42593	 Najlepszy wynik: 	21
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	5000	 Generacja: 	212790	 Najlepszy wynik: 	18
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	10000	 Generacja: 	425842	 Najlepszy wynik: 	18
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	30000	 Generacja: 	1278895	 Najlepszy wynik: 	18
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	4258576	 Najlepszy wynik: 	17
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	8516563	 Najlepszy wynik: 	17
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.01	 Generacja: 	42793	 Najlepszy wynik: 	24
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.61	 Generacja: 	214001	 Najlepszy wynik: 	19
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	10000	 Generacja: 	428139	 Najlepszy wynik: 	19
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	30000	 Generacja: 	1284697	 Najlepszy wynik: 	18
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	4276988	 Najlepszy wynik: 	18
+Liczba miast: 	22	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	8556340	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.04	 Generacja: 	19349	 Najlepszy wynik: 	20
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.02	 Generacja: 	96736	 Najlepszy wynik: 	17
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.1	 Generacja: 	193482	 Najlepszy wynik: 	17
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	30000	 Generacja: 	580098	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	1933283	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	3865875	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.04	 Generacja: 	19478	 Najlepszy wynik: 	21
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.04	 Generacja: 	97266	 Najlepszy wynik: 	19
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	10000	 Generacja: 	194732	 Najlepszy wynik: 	18
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	30000	 Generacja: 	584420	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	1946893	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	3891502	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.09	 Generacja: 	4986	 Najlepszy wynik: 	18
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	5000	 Generacja: 	24958	 Najlepszy wynik: 	17
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.2	 Generacja: 	49931	 Najlepszy wynik: 	17
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.2	 Generacja: 	149702	 Najlepszy wynik: 	15
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	499220	 Najlepszy wynik: 	14
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	998014	 Najlepszy wynik: 	13
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.01	 Generacja: 	5013	 Najlepszy wynik: 	20
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.02	 Generacja: 	24970	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	10000	 Generacja: 	49845	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.2	 Generacja: 	149651	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	498902	 Najlepszy wynik: 	15
+Liczba miast: 	22	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	996868	 Najlepszy wynik: 	15
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.44	 Generacja: 	1866	 Najlepszy wynik: 	17
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.18	 Generacja: 	9376	 Najlepszy wynik: 	15
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.1	 Generacja: 	18775	 Najlepszy wynik: 	13
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.1	 Generacja: 	56226	 Najlepszy wynik: 	13
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	187604	 Najlepszy wynik: 	13
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	374961	 Najlepszy wynik: 	12
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.42	 Generacja: 	1877	 Najlepszy wynik: 	16
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.39	 Generacja: 	9399	 Najlepszy wynik: 	15
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.2	 Generacja: 	18768	 Najlepszy wynik: 	12
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.3	 Generacja: 	56363	 Najlepszy wynik: 	12
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	187879	 Najlepszy wynik: 	12
+Liczba miast: 	22	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	375783	 Najlepszy wynik: 	12
+													
+													
+													
+													
+													
+													
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.06	 Generacja: 	17832	 Najlepszy wynik: 	37621
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.04	 Generacja: 	87209	 Najlepszy wynik: 	34801
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	10000	 Generacja: 	174285	 Najlepszy wynik: 	34801
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	30000	 Generacja: 	528651	 Najlepszy wynik: 	34801
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	1792003	 Najlepszy wynik: 	33254
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	3561694	 Najlepszy wynik: 	31797
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.04	 Generacja: 	17232	 Najlepszy wynik: 	35814
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.05	 Generacja: 	85281	 Najlepszy wynik: 	34644
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	10000	 Generacja: 	171910	 Najlepszy wynik: 	34644
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	30000	 Generacja: 	515084	 Najlepszy wynik: 	34569
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	1734654	 Najlepszy wynik: 	32550
+Liczba miast: 	48	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	3498222	 Najlepszy wynik: 	30195
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.07	 Generacja: 	8371	 Najlepszy wynik: 	33935
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.07	 Generacja: 	41054	 Najlepszy wynik: 	33025
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	10000	 Generacja: 	79395	 Najlepszy wynik: 	33025
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	30000	 Generacja: 	242381	 Najlepszy wynik: 	30193
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	824099	 Najlepszy wynik: 	30193
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	1663244	 Najlepszy wynik: 	28485
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.07	 Generacja: 	8434	 Najlepszy wynik: 	34158
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.06	 Generacja: 	42063	 Najlepszy wynik: 	32358
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	10000	 Generacja: 	84334	 Najlepszy wynik: 	32358
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.1	 Generacja: 	252941	 Najlepszy wynik: 	31536
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	842697	 Najlepszy wynik: 	30253
+Liczba miast: 	48	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	1684722	 Najlepszy wynik: 	29626
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.05	 Generacja: 	2186	 Najlepszy wynik: 	28517
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.07	 Generacja: 	10961	 Najlepszy wynik: 	27204
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.2	 Generacja: 	21942	 Najlepszy wynik: 	27083
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.4	 Generacja: 	65869	 Najlepszy wynik: 	27083
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	219320	 Najlepszy wynik: 	23970
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	439020	 Najlepszy wynik: 	23970
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.33	 Generacja: 	2189	 Najlepszy wynik: 	29752
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.11	 Generacja: 	11044	 Najlepszy wynik: 	27148
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.1	 Generacja: 	22069	 Najlepszy wynik: 	27148
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.2	 Generacja: 	66112	 Najlepszy wynik: 	26976
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	218599	 Najlepszy wynik: 	23298
+Liczba miast: 	48	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	433242	 Najlepszy wynik: 	23298
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.12	 Generacja: 	839	 Najlepszy wynik: 	27419
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.01	 Generacja: 	4209	 Najlepszy wynik: 	23207
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.2	 Generacja: 	8429	 Najlepszy wynik: 	22985
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	30000	 Generacja: 	25225	 Najlepszy wynik: 	22063
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	100001	 Generacja: 	83980	 Najlepszy wynik: 	22063
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	200001	 Generacja: 	167682	 Najlepszy wynik: 	19758
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.79	 Generacja: 	849	 Najlepszy wynik: 	25166
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.37	 Generacja: 	4217	 Najlepszy wynik: 	20643
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.4	 Generacja: 	8426	 Najlepszy wynik: 	20643
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.8	 Generacja: 	25265	 Najlepszy wynik: 	20643
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	83788	 Najlepszy wynik: 	20643
+Liczba miast: 	48	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	167531	 Najlepszy wynik: 	20263
+													
+													
+													
+													
+													
+													
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.06	 Generacja: 	7281	 Najlepszy wynik: 	170701
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.06	 Generacja: 	36753	 Najlepszy wynik: 	160865
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.3	 Generacja: 	75145	 Najlepszy wynik: 	158153
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.1	 Generacja: 	230415	 Najlepszy wynik: 	153269
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	792906	 Najlepszy wynik: 	153269
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	1581881	 Najlepszy wynik: 	149570
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.02	 Generacja: 	7556	 Najlepszy wynik: 	170246
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.05	 Generacja: 	39177	 Najlepszy wynik: 	170246
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.1	 Generacja: 	77354	 Najlepszy wynik: 	169199
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.3	 Generacja: 	234401	 Najlepszy wynik: 	156415
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	778655	 Najlepszy wynik: 	153318
+Liczba miast: 	76	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	1556911	 Najlepszy wynik: 	152595
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.21	 Generacja: 	3601	 Najlepszy wynik: 	168877
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.08	 Generacja: 	17881	 Najlepszy wynik: 	154228
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.2	 Generacja: 	35630	 Najlepszy wynik: 	154228
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.1	 Generacja: 	105731	 Najlepszy wynik: 	152141
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	357214	 Najlepszy wynik: 	137540
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	718194	 Najlepszy wynik: 	137540
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.14	 Generacja: 	3634	 Najlepszy wynik: 	164383
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.06	 Generacja: 	18192	 Najlepszy wynik: 	151155
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.1	 Generacja: 	36276	 Najlepszy wynik: 	151155
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.1	 Generacja: 	108950	 Najlepszy wynik: 	151155
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	361096	 Najlepszy wynik: 	140606
+Liczba miast: 	76	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	721925	 Najlepszy wynik: 	140606
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.5	 Generacja: 	958	 Najlepszy wynik: 	141640
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.43	 Generacja: 	4794	 Najlepszy wynik: 	134979
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	10001.1	 Generacja: 	9510	 Najlepszy wynik: 	134979
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.1	 Generacja: 	28321	 Najlepszy wynik: 	131144
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	93590	 Najlepszy wynik: 	124568
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	186980	 Najlepszy wynik: 	124119
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.56	 Generacja: 	960	 Najlepszy wynik: 	149202
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.41	 Generacja: 	4642	 Najlepszy wynik: 	135081
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.9	 Generacja: 	9374	 Najlepszy wynik: 	135081
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.4	 Generacja: 	28067	 Najlepszy wynik: 	122699
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	100001	 Generacja: 	93955	 Najlepszy wynik: 	122699
+Liczba miast: 	76	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	200001	 Generacja: 	192855	 Najlepszy wynik: 	122699
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	1001.06	 Generacja: 	421	 Najlepszy wynik: 	111173
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	5001.97	 Generacja: 	2084	 Najlepszy wynik: 	111173
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	10002.1	 Generacja: 	4159	 Najlepszy wynik: 	111173
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	30001.6	 Generacja: 	12384	 Najlepszy wynik: 	111173
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	100001	 Generacja: 	41137	 Najlepszy wynik: 	110564
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	200001	 Generacja: 	82430	 Najlepszy wynik: 	108416
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.98	 Generacja: 	419	 Najlepszy wynik: 	125573
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	5001.22	 Generacja: 	2083	 Najlepszy wynik: 	121890
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	10002.7	 Generacja: 	4129	 Najlepszy wynik: 	120191
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	30001.5	 Generacja: 	12369	 Najlepszy wynik: 	104523
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	100001	 Generacja: 	41119	 Najlepszy wynik: 	104523
+Liczba miast: 	76	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	82655	 Najlepszy wynik: 	104523
+													
+													
+													
+													
+													
+													
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.16	 Generacja: 	5011	 Najlepszy wynik: 	38007
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.1	 Generacja: 	25141	 Najlepszy wynik: 	36771
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	10000	 Generacja: 	50774	 Najlepszy wynik: 	35547
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.1	 Generacja: 	153787	 Najlepszy wynik: 	33492
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	512367	 Najlepszy wynik: 	33492
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	1027427	 Najlepszy wynik: 	33045
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.01	 Generacja: 	5052	 Najlepszy wynik: 	37361
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.19	 Generacja: 	25910	 Najlepszy wynik: 	35889
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.1	 Generacja: 	51972	 Najlepszy wynik: 	35718
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	30000	 Generacja: 	156240	 Najlepszy wynik: 	34693
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	518585	 Najlepszy wynik: 	33547
+Liczba miast: 	105	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	1027899	 Najlepszy wynik: 	32575
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.22	 Generacja: 	2395	 Najlepszy wynik: 	33569
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.21	 Generacja: 	12081	 Najlepszy wynik: 	33569
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.2	 Generacja: 	23305	 Najlepszy wynik: 	32947
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.2	 Generacja: 	69855	 Najlepszy wynik: 	32674
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	232517	 Najlepszy wynik: 	31714
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	468375	 Najlepszy wynik: 	29981
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.42	 Generacja: 	2412	 Najlepszy wynik: 	35181
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.18	 Generacja: 	12078	 Najlepszy wynik: 	33869
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.3	 Generacja: 	24189	 Najlepszy wynik: 	33517
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.2	 Generacja: 	72439	 Najlepszy wynik: 	31683
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	239343	 Najlepszy wynik: 	31000
+Liczba miast: 	105	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	479294	 Najlepszy wynik: 	30265
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.1	 Generacja: 	632	 Najlepszy wynik: 	28941
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	5001.25	 Generacja: 	3165	 Najlepszy wynik: 	28458
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	10001.2	 Generacja: 	6332	 Najlepszy wynik: 	27668
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	30000	 Generacja: 	18912	 Najlepszy wynik: 	27128
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	100002	 Generacja: 	63019	 Najlepszy wynik: 	24804
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	200001	 Generacja: 	125909	 Najlepszy wynik: 	24804
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	1001.47	 Generacja: 	635	 Najlepszy wynik: 	32433
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.28	 Generacja: 	3099	 Najlepszy wynik: 	27398
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	10001	 Generacja: 	6225	 Najlepszy wynik: 	27398
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.1	 Generacja: 	18518	 Najlepszy wynik: 	24974
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	100001	 Generacja: 	62101	 Najlepszy wynik: 	24974
+Liczba miast: 	105	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	200001	 Generacja: 	125030	 Najlepszy wynik: 	24974
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	1001.54	 Generacja: 	254	 Najlepszy wynik: 	27460
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.9	 Generacja: 	1273	 Najlepszy wynik: 	22545
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	10002.1	 Generacja: 	2532	 Najlepszy wynik: 	22545
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	30001.7	 Generacja: 	7624	 Najlepszy wynik: 	21100
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	25398	 Najlepszy wynik: 	20831
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	200003	 Generacja: 	50801	 Najlepszy wynik: 	20572
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	1002.02	 Generacja: 	257	 Najlepszy wynik: 	26553
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.17	 Generacja: 	1275	 Najlepszy wynik: 	25250
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	10003.1	 Generacja: 	2550	 Najlepszy wynik: 	22698
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	30002.3	 Generacja: 	7541	 Najlepszy wynik: 	22698
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	100003	 Generacja: 	25059	 Najlepszy wynik: 	20336
+Liczba miast: 	105	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	200004	 Generacja: 	49883	 Najlepszy wynik: 	20336
+													
+													
+													
+													
+													
+													
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.01	 Generacja: 	3040	 Najlepszy wynik: 	18727
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.15	 Generacja: 	15276	 Najlepszy wynik: 	17943
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.3	 Generacja: 	30605	 Najlepszy wynik: 	17285
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.2	 Generacja: 	92048	 Najlepszy wynik: 	17091
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	308012	 Najlepszy wynik: 	17091
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	616045	 Najlepszy wynik: 	17091
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.14	 Generacja: 	3085	 Najlepszy wynik: 	18346
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.25	 Generacja: 	15101	 Najlepszy wynik: 	17868
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.2	 Generacja: 	30225	 Najlepszy wynik: 	17707
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.2	 Generacja: 	91062	 Najlepszy wynik: 	17707
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	306339	 Najlepszy wynik: 	16959
+Liczba miast: 	150	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	614457	 Najlepszy wynik: 	16959
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.37	 Generacja: 	1425	 Najlepszy wynik: 	17267
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.07	 Generacja: 	7093	 Najlepszy wynik: 	16321
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.5	 Generacja: 	14150	 Najlepszy wynik: 	16321
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.6	 Generacja: 	42454	 Najlepszy wynik: 	16321
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	141328	 Najlepszy wynik: 	16184
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	281687	 Najlepszy wynik: 	15789
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.38	 Generacja: 	1391	 Najlepszy wynik: 	17950
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.52	 Generacja: 	6935	 Najlepszy wynik: 	17219
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.4	 Generacja: 	13926	 Najlepszy wynik: 	15629
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.5	 Generacja: 	41812	 Najlepszy wynik: 	15629
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	139829	 Najlepszy wynik: 	15629
+Liczba miast: 	150	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	280016	 Najlepszy wynik: 	15629
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	1001.73	 Generacja: 	363	 Najlepszy wynik: 	15186
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	5001.93	 Generacja: 	1832	 Najlepszy wynik: 	14627
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	10001.3	 Generacja: 	3684	 Najlepszy wynik: 	14627
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.8	 Generacja: 	11023	 Najlepszy wynik: 	14276
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	100001	 Generacja: 	36628	 Najlepszy wynik: 	13949
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	200003	 Generacja: 	73179	 Najlepszy wynik: 	13606
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.58	 Generacja: 	336	 Najlepszy wynik: 	15245
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.15	 Generacja: 	1798	 Najlepszy wynik: 	13220
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	10001.8	 Generacja: 	3651	 Najlepszy wynik: 	13220
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	30001.2	 Generacja: 	10923	 Najlepszy wynik: 	13220
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	100002	 Generacja: 	36485	 Najlepszy wynik: 	13220
+Liczba miast: 	150	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	200002	 Generacja: 	73078	 Najlepszy wynik: 	13220
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	1001.18	 Generacja: 	146	 Najlepszy wynik: 	14768
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	5002.81	 Generacja: 	734	 Najlepszy wynik: 	13421
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	10001.4	 Generacja: 	1467	 Najlepszy wynik: 	12508
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.7	 Generacja: 	4435	 Najlepszy wynik: 	11941
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	100008	 Generacja: 	14096	 Najlepszy wynik: 	11262
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	200003	 Generacja: 	28297	 Najlepszy wynik: 	11262
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	1002.11	 Generacja: 	143	 Najlepszy wynik: 	15083
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	5007.02	 Generacja: 	739	 Najlepszy wynik: 	12950
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	10004.8	 Generacja: 	1476	 Najlepszy wynik: 	12950
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	30001.2	 Generacja: 	4425	 Najlepszy wynik: 	12178
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	100003	 Generacja: 	14747	 Najlepszy wynik: 	11333
+Liczba miast: 	150	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	200001	 Generacja: 	29533	 Najlepszy wynik: 	11333
+													
+													
+													
+													
+													
+													
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	1003.41	 Generacja: 	322	 Najlepszy wynik: 	265129
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	5001.1	 Generacja: 	1603	 Najlepszy wynik: 	252733
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	10003.2	 Generacja: 	3205	 Najlepszy wynik: 	252733
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	30002.1	 Generacja: 	9645	 Najlepszy wynik: 	245596
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	100001	 Generacja: 	32132	 Najlepszy wynik: 	243488
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	200002	 Generacja: 	64279	 Najlepszy wynik: 	243488
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.12	 Generacja: 	324	 Najlepszy wynik: 	265158
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	5002.98	 Generacja: 	1624	 Najlepszy wynik: 	254357
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	10003.7	 Generacja: 	3240	 Najlepszy wynik: 	253901
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	30002.6	 Generacja: 	9692	 Najlepszy wynik: 	253901
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	32351	 Najlepszy wynik: 	253901
+Liczba miast: 	574	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	200003	 Generacja: 	64703	 Najlepszy wynik: 	247647
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	1002.07	 Generacja: 	148	 Najlepszy wynik: 	254795
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	5003.7	 Generacja: 	736	 Najlepszy wynik: 	237296
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.3	 Generacja: 	1475	 Najlepszy wynik: 	234148
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	30003.9	 Generacja: 	4428	 Najlepszy wynik: 	232663
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	100003	 Generacja: 	14841	 Najlepszy wynik: 	230149
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	200001	 Generacja: 	29712	 Najlepszy wynik: 	228749
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	1004.7	 Generacja: 	150	 Najlepszy wynik: 	250209
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	5004.45	 Generacja: 	750	 Najlepszy wynik: 	239186
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	10005	 Generacja: 	1499	 Najlepszy wynik: 	239037
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	30001.9	 Generacja: 	4490	 Najlepszy wynik: 	237474
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	100005	 Generacja: 	14927	 Najlepszy wynik: 	226294
+Liczba miast: 	574	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	200004	 Generacja: 	29797	 Najlepszy wynik: 	226113
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	1019.26	 Generacja: 	37	 Najlepszy wynik: 	269043
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	5008.05	 Generacja: 	196	 Najlepszy wynik: 	220843
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	10003.9	 Generacja: 	397	 Najlepszy wynik: 	201854
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	30009	 Generacja: 	1192	 Najlepszy wynik: 	194289
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	100020	 Generacja: 	3985	 Najlepszy wynik: 	194289
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	200002	 Generacja: 	7955	 Najlepszy wynik: 	194289
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	1019.78	 Generacja: 	39	 Najlepszy wynik: 	267438
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	5004.36	 Generacja: 	198	 Najlepszy wynik: 	220590
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	10005.3	 Generacja: 	397	 Najlepszy wynik: 	206218
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	30007.3	 Generacja: 	1183	 Najlepszy wynik: 	191214
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	100011	 Generacja: 	3951	 Najlepszy wynik: 	191214
+Liczba miast: 	574	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	200007	 Generacja: 	7896	 Najlepszy wynik: 	188920
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	1006.51	 Generacja: 	15	 Najlepszy wynik: 	284394
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	5034.09	 Generacja: 	80	 Najlepszy wynik: 	234760
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	10005.8	 Generacja: 	161	 Najlepszy wynik: 	210014
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	30032.8	 Generacja: 	487	 Najlepszy wynik: 	175484
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	100049	 Generacja: 	1621	 Najlepszy wynik: 	164587
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	200047	 Generacja: 	3240	 Najlepszy wynik: 	149163
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.91	 Generacja: 	15	 Najlepszy wynik: 	289528
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	5019.46	 Generacja: 	81	 Najlepszy wynik: 	231193
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	10058.1	 Generacja: 	163	 Najlepszy wynik: 	197284
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	30047.6	 Generacja: 	490	 Najlepszy wynik: 	172859
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	100043	 Generacja: 	1622	 Najlepszy wynik: 	155113
+Liczba miast: 	574	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	200030	 Generacja: 	3237	 Najlepszy wynik: 	155113
+													
+													
+													
+													
+													
+													
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	1018.46	 Generacja: 	44	 Najlepszy wynik: 	962355
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	5016.21	 Generacja: 	223	 Najlepszy wynik: 	938106
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	10004.6	 Generacja: 	446	 Najlepszy wynik: 	923400
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	30019.8	 Generacja: 	1340	 Najlepszy wynik: 	869665
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	100002	 Generacja: 	4467	 Najlepszy wynik: 	869665
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	200002	 Generacja: 	8925	 Najlepszy wynik: 	869665
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	1017.82	 Generacja: 	44	 Najlepszy wynik: 	1028205
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	5020.82	 Generacja: 	224	 Najlepszy wynik: 	952993
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	10017.8	 Generacja: 	449	 Najlepszy wynik: 	892122
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	30002.7	 Generacja: 	1336	 Najlepszy wynik: 	862425
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	100014	 Generacja: 	4468	 Najlepszy wynik: 	861297
+Liczba miast: 	1655	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	8940	 Najlepszy wynik: 	861297
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	1017.68	 Generacja: 	20	 Najlepszy wynik: 	1076444
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	5023.88	 Generacja: 	102	 Najlepszy wynik: 	985209
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	10012.7	 Generacja: 	205	 Najlepszy wynik: 	921979
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	30036.2	 Generacja: 	618	 Najlepszy wynik: 	812751
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	2068	 Najlepszy wynik: 	805160
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	200005	 Generacja: 	4143	 Najlepszy wynik: 	792130
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	1006	 Generacja: 	20	 Najlepszy wynik: 	1039205
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	5003.1	 Generacja: 	101	 Najlepszy wynik: 	945908
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	10002	 Generacja: 	203	 Najlepszy wynik: 	889722
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	30032.4	 Generacja: 	620	 Najlepszy wynik: 	812112
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	100014	 Generacja: 	2070	 Najlepszy wynik: 	801018
+Liczba miast: 	1655	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	200022	 Generacja: 	4143	 Najlepszy wynik: 	801018
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	1127.42	 Generacja: 	5	 Najlepszy wynik: 	1038450
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	5153.26	 Generacja: 	27	 Najlepszy wynik: 	1015822
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	10163.8	 Generacja: 	54	 Najlepszy wynik: 	970121
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	30074.2	 Generacja: 	162	 Najlepszy wynik: 	871441
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	100073	 Generacja: 	532	 Najlepszy wynik: 	755597
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	200065	 Generacja: 	1051	 Najlepszy wynik: 	717681
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	1060.29	 Generacja: 	5	 Najlepszy wynik: 	1024091
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	5117.86	 Generacja: 	27	 Najlepszy wynik: 	977611
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	10018.9	 Generacja: 	53	 Najlepszy wynik: 	925678
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	30089.7	 Generacja: 	161	 Najlepszy wynik: 	838349
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	100130	 Generacja: 	542	 Najlepszy wynik: 	739711
+Liczba miast: 	1655	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	200060	 Generacja: 	1086	 Najlepszy wynik: 	721786
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	1191.63	 Generacja: 	2	 Najlepszy wynik: 	1049893
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	5235.42	 Generacja: 	11	 Najlepszy wynik: 	1010024
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	10170.7	 Generacja: 	22	 Najlepszy wynik: 	979235
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	30035.3	 Generacja: 	67	 Najlepszy wynik: 	902494
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	100146	 Generacja: 	224	 Najlepszy wynik: 	753957
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	200424	 Generacja: 	449	 Najlepszy wynik: 	680996
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	1220.84	 Generacja: 	2	 Najlepszy wynik: 	1026834
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	5358.13	 Generacja: 	11	 Najlepszy wynik: 	1001068
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	10273	 Generacja: 	22	 Najlepszy wynik: 	977798
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	30357.7	 Generacja: 	67	 Najlepszy wynik: 	900460
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	100331	 Generacja: 	223	 Najlepszy wynik: 	763627
+Liczba miast: 	1655	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	200118	 Generacja: 	447	 Najlepszy wynik: 	656940
+													
+													
+													
+													
+													
+													
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.19	 Generacja: 	4861	 Najlepszy wynik: 	2337
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.21	 Generacja: 	24131	 Najlepszy wynik: 	2138
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.5	 Generacja: 	47851	 Najlepszy wynik: 	2138
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.1	 Generacja: 	142946	 Najlepszy wynik: 	2111
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	100002	 Generacja: 	475191	 Najlepszy wynik: 	2084
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	200001	 Generacja: 	949601	 Najlepszy wynik: 	2080
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	1001.15	 Generacja: 	4781	 Najlepszy wynik: 	2362
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.75	 Generacja: 	23981	 Najlepszy wynik: 	2203
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.8	 Generacja: 	48211	 Najlepszy wynik: 	2203
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	30000	 Generacja: 	144489	 Najlepszy wynik: 	2103
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	481021	 Najlepszy wynik: 	2046
+Liczba miast: 	55	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	200001	 Generacja: 	960251	 Najlepszy wynik: 	2046
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.12	 Generacja: 	3152	 Najlepszy wynik: 	2079
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.01	 Generacja: 	17294	 Najlepszy wynik: 	1967
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	10000	 Generacja: 	35123	 Najlepszy wynik: 	1967
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.1	 Generacja: 	106886	 Najlepszy wynik: 	1967
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	354681	 Najlepszy wynik: 	1887
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	708504	 Najlepszy wynik: 	1887
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.91	 Generacja: 	3631	 Najlepszy wynik: 	2132
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.09	 Generacja: 	17924	 Najlepszy wynik: 	2132
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.1	 Generacja: 	36006	 Najlepszy wynik: 	2119
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	30001	 Generacja: 	107731	 Najlepszy wynik: 	2011
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	100001	 Generacja: 	356741	 Najlepszy wynik: 	1922
+Liczba miast: 	55	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	712698	 Najlepszy wynik: 	1890
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.59	 Generacja: 	1401	 Najlepszy wynik: 	2011
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.49	 Generacja: 	7029	 Najlepszy wynik: 	1860
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.5	 Generacja: 	14034	 Najlepszy wynik: 	1769
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.3	 Generacja: 	42021	 Najlepszy wynik: 	1682
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	139948	 Najlepszy wynik: 	1648
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	279306	 Najlepszy wynik: 	1606
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	1001.91	 Generacja: 	1341	 Najlepszy wynik: 	1864
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.4	 Generacja: 	6958	 Najlepszy wynik: 	1843
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.4	 Generacja: 	13959	 Najlepszy wynik: 	1807
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.3	 Generacja: 	41984	 Najlepszy wynik: 	1758
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	139760	 Najlepszy wynik: 	1739
+Liczba miast: 	55	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	278774	 Najlepszy wynik: 	1723
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	1001.98	 Generacja: 	651	 Najlepszy wynik: 	1883
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.26	 Generacja: 	3266	 Najlepszy wynik: 	1470
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.4	 Generacja: 	6510	 Najlepszy wynik: 	1470
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.7	 Generacja: 	19304	 Najlepszy wynik: 	1426
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	100001	 Generacja: 	61242	 Najlepszy wynik: 	1426
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	200001	 Generacja: 	121275	 Najlepszy wynik: 	1397
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.37	 Generacja: 	600	 Najlepszy wynik: 	1754
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	5001.13	 Generacja: 	3043	 Najlepszy wynik: 	1600
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	10004.4	 Generacja: 	6091	 Najlepszy wynik: 	1600
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	30001.3	 Generacja: 	18215	 Najlepszy wynik: 	1566
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	60625	 Najlepszy wynik: 	1477
+Liczba miast: 	55	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	200001	 Generacja: 	120872	 Najlepszy wynik: 	1440
+													
+													
+													
+													
+													
+													
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.08	 Generacja: 	9921	 Najlepszy wynik: 	27692
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.09	 Generacja: 	49628	 Najlepszy wynik: 	26959
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.1	 Generacja: 	99750	 Najlepszy wynik: 	26959
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	30000	 Generacja: 	301425	 Najlepszy wynik: 	26959
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	996762	 Najlepszy wynik: 	26406
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	1999593	 Najlepszy wynik: 	26296
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	1000	 Generacja: 	9925	 Najlepszy wynik: 	27864
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.04	 Generacja: 	50384	 Najlepszy wynik: 	27483
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	10000	 Generacja: 	100975	 Najlepszy wynik: 	26267
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	30000	 Generacja: 	302364	 Najlepszy wynik: 	26219
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	1008749	 Najlepszy wynik: 	26219
+Liczba miast: 	70	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	2017193	 Najlepszy wynik: 	26219
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.11	 Generacja: 	4300	 Najlepszy wynik: 	27322
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.12	 Generacja: 	23111	 Najlepszy wynik: 	26464
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	10000	 Generacja: 	46678	 Najlepszy wynik: 	26289
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	30000	 Generacja: 	140035	 Najlepszy wynik: 	26208
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	469311	 Najlepszy wynik: 	26136
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	949569	 Najlepszy wynik: 	25324
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.14	 Generacja: 	4850	 Najlepszy wynik: 	27375
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.21	 Generacja: 	24428	 Najlepszy wynik: 	26677
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.1	 Generacja: 	49477	 Najlepszy wynik: 	26299
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.1	 Generacja: 	148733	 Najlepszy wynik: 	25975
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	493082	 Najlepszy wynik: 	25622
+Liczba miast: 	70	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	985430	 Najlepszy wynik: 	25388
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.83	 Generacja: 	1150	 Najlepszy wynik: 	25414
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.47	 Generacja: 	5819	 Najlepszy wynik: 	25414
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.1	 Generacja: 	12305	 Najlepszy wynik: 	24943
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.1	 Generacja: 	38544	 Najlepszy wynik: 	24200
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	129030	 Najlepszy wynik: 	23912
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	200001	 Generacja: 	258039	 Najlepszy wynik: 	23912
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.72	 Generacja: 	1276	 Najlepszy wynik: 	24829
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.91	 Generacja: 	6490	 Najlepszy wynik: 	24829
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.4	 Generacja: 	13040	 Najlepszy wynik: 	24420
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.5	 Generacja: 	39173	 Najlepszy wynik: 	24420
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	100001	 Generacja: 	130691	 Najlepszy wynik: 	24255
+Liczba miast: 	70	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	261279	 Najlepszy wynik: 	22673
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	1001.35	 Generacja: 	509	 Najlepszy wynik: 	24856
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	5001.7	 Generacja: 	2581	 Najlepszy wynik: 	23877
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	10001.6	 Generacja: 	5090	 Najlepszy wynik: 	23877
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	30001.5	 Generacja: 	15483	 Najlepszy wynik: 	23440
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	100001	 Generacja: 	50033	 Najlepszy wynik: 	21563
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	200001	 Generacja: 	101747	 Najlepszy wynik: 	21563
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	1001.15	 Generacja: 	514	 Najlepszy wynik: 	24554
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.31	 Generacja: 	2469	 Najlepszy wynik: 	23559
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	10001.6	 Generacja: 	4997	 Najlepszy wynik: 	23559
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	30001.7	 Generacja: 	15160	 Najlepszy wynik: 	23422
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	100001	 Generacja: 	51954	 Najlepszy wynik: 	22727
+Liczba miast: 	70	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	200001	 Generacja: 	104741	 Najlepszy wynik: 	22368
+												`	
+													
+													
+													
+													
+													
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.09	 Generacja: 	3870	 Najlepszy wynik: 	35749
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.14	 Generacja: 	21145	 Najlepszy wynik: 	35749
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.1	 Generacja: 	42866	 Najlepszy wynik: 	35338
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.1	 Generacja: 	133193	 Najlepszy wynik: 	32445
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	441899	 Najlepszy wynik: 	32445
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	889900	 Najlepszy wynik: 	32445
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	1000	 Generacja: 	4464	 Najlepszy wynik: 	40534
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.14	 Generacja: 	22264	 Najlepszy wynik: 	39551
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.2	 Generacja: 	44699	 Najlepszy wynik: 	37521
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.1	 Generacja: 	134465	 Najlepszy wynik: 	36159
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	446956	 Najlepszy wynik: 	34401
+Liczba miast: 	124	 Wielkosc populacji: 	10	 Wielkosc turnieju: 	2	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	895809	 Najlepszy wynik: 	32934
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.13	 Generacja: 	2123	 Najlepszy wynik: 	37236
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.2	 Generacja: 	10508	 Najlepszy wynik: 	31916
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	10000.2	 Generacja: 	21192	 Najlepszy wynik: 	31916
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.3	 Generacja: 	63144	 Najlepszy wynik: 	31832
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	100000	 Generacja: 	212246	 Najlepszy wynik: 	30669
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	1	 Czas pomiaru: 	200000	 Generacja: 	428540	 Najlepszy wynik: 	30586
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	1000.27	 Generacja: 	1956	 Najlepszy wynik: 	34553
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.38	 Generacja: 	10248	 Najlepszy wynik: 	32772
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.1	 Generacja: 	21350	 Najlepszy wynik: 	32772
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.2	 Generacja: 	66146	 Najlepszy wynik: 	30343
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	100000	 Generacja: 	222210	 Najlepszy wynik: 	30343
+Liczba miast: 	124	 Wielkosc populacji: 	20	 Wielkosc turnieju: 	3	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	442329	 Najlepszy wynik: 	30343
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.26	 Generacja: 	595	 Najlepszy wynik: 	31490
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	5000.29	 Generacja: 	2930	 Najlepszy wynik: 	31490
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	10001.1	 Generacja: 	5854	 Najlepszy wynik: 	27206
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	30000.1	 Generacja: 	17503	 Najlepszy wynik: 	25943
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	100002	 Generacja: 	58322	 Najlepszy wynik: 	25943
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	1	 Czas pomiaru: 	200001	 Generacja: 	116712	 Najlepszy wynik: 	25780
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	1001.26	 Generacja: 	588	 Najlepszy wynik: 	31071
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	5001.25	 Generacja: 	2962	 Najlepszy wynik: 	29329
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.5	 Generacja: 	5939	 Najlepszy wynik: 	27783
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.7	 Generacja: 	17745	 Najlepszy wynik: 	22918
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	100001	 Generacja: 	59044	 Najlepszy wynik: 	22918
+Liczba miast: 	124	 Wielkosc populacji: 	50	 Wielkosc turnieju: 	4	 Szansa mutacji: 	5	 Czas pomiaru: 	200000	 Generacja: 	117422	 Najlepszy wynik: 	22918
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	1000.33	 Generacja: 	185	 Najlepszy wynik: 	30304
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	5003.26	 Generacja: 	1065	 Najlepszy wynik: 	23102
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	10001.6	 Generacja: 	2194	 Najlepszy wynik: 	23102
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	30001.9	 Generacja: 	6793	 Najlepszy wynik: 	22898
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	100004	 Generacja: 	23080	 Najlepszy wynik: 	21065
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	1	 Czas pomiaru: 	200002	 Generacja: 	46420	 Najlepszy wynik: 	21065
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	1001.09	 Generacja: 	248	 Najlepszy wynik: 	33195
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	5000.54	 Generacja: 	1201	 Najlepszy wynik: 	26931
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	10000.3	 Generacja: 	2403	 Najlepszy wynik: 	24373
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	30000.1	 Generacja: 	7205	 Najlepszy wynik: 	22621
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	100005	 Generacja: 	24147	 Najlepszy wynik: 	22621
+Liczba miast: 	124	 Wielkosc populacji: 	100	 Wielkosc turnieju: 	5	 Szansa mutacji: 	5	 Czas pomiaru: 	200001	 Generacja: 	48634	 Najlepszy wynik: 	20363
